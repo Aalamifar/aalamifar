@@ -1,76 +1,60 @@
 # Hi, I'm Pouria Aalamifar 👋
 
-### Backend Developer | PHP · Laravel · Rust
+### Full-Stack Developer | PHP · Laravel · Livewire · Rust
 
-I'm a backend developer passionate about building practical software, designing reliable systems, and solving real-world problems through code.
+I build web applications and practical software, with a focus on backend development, clean architecture, and solving real-world problems.
 
-My primary focus is **PHP and Laravel**, with a growing interest in **Rust** and systems programming.
-
-I enjoy working across the entire development process — from understanding requirements and making architectural decisions to implementing features, debugging, and delivering usable software.
+My main focus is **PHP, Laravel, and Livewire**. I also work with **Rust** and enjoy exploring systems programming, automation, and developer tools.
 
 ## Featured Projects
 
-### MRW Therapist
-A role-based educational and therapy management platform.
+### [MRW Therapist](https://github.com/Aalamifar/mrw-therapist)
+A role-based educational and therapy management platform built for a real client.
 
-- Laravel, Livewire, MySQL, Tailwind CSS
+- Laravel, Livewire, MySQL, and Tailwind CSS
 - Admin, therapist, and student dashboards
 - Lessons, assignments, exams, and messaging
 
-[View Repository](https://github.com/Aalamifar/mrw-therapist)
-
-### Gold Price Monitoring Bot
-A Telegram bot built with Rust to monitor gold prices and detect significant market fluctuations.
+### [Gold Price Monitoring Bot](https://github.com/Aalamifar/gold-bot)
+A Telegram bot written in Rust that monitors gold prices from multiple sources and sends alerts when significant price movements are detected.
 
 - Rust and asynchronous programming
-- Multiple price sources
-- Configurable alerts and monitoring logic
+- Multiple data sources and configurable monitoring
+- Threshold-based alerts and cooldown handling
 
-[View Repository](https://github.com/Aalamifar/gold-bot)
+### [Persian Rust Book](https://github.com/Aalamifar/rust-book)
+A Persian translation and interactive learning version of *The Rust Programming Language*.
 
-### Persian Rust Book
-Working on a Persian translation of *The Rust Programming Language*, including interactive learning features.
+- mdBook-based documentation
+- Interactive quizzes and learning features
+- Open-source documentation work
 
-- Rust documentation
-- mdBook
-- Interactive quizzes
-- Documentation and open-source collaboration
-
-[View Repository](https://github.com/Aalamifar/rust-book) · [Read Online](https://aalamifar.github.io/rust-book/)
+[Read the book online](https://aalamifar.github.io/rust-book/)
 
 ## Tech Stack
 
-**Primary Technologies**
-- PHP
-- Laravel
-- Livewire
-- MySQL
-- Rust
+**Web Development**
+- PHP · Laravel · Livewire
+- JavaScript · HTML · CSS
+- Tailwind CSS · MySQL
 
-**Also Familiar With**
-- Python
-- C#
-- Java
-- JavaScript
-- HTML & CSS
-- Tailwind CSS
+**Programming Languages**
+- Rust · Python · C# · Java
 
-**Tools**
-- Git & GitHub
-- Linux
-- Docker
+**Tools & Platforms**
+- Git · GitHub · Linux
 
-## Currently
+## What I'm Working On
 
-- Improving my backend engineering skills.
-- Building practical projects with Laravel and Rust.
-- Exploring software architecture and systems programming.
-- Contributing to technical documentation and open-source projects.
+- Building and improving backend-focused web applications.
+- Developing practical tools with Rust.
+- Contributing to Persian technical documentation.
+- Growing as a software engineer through real-world projects.
 
 ## Let's Connect
 
-I'm open to remote backend development opportunities, freelance projects, and collaborations with international teams.
+I'm open to **remote opportunities, freelance projects, and meaningful collaborations**.
 
-Feel free to connect with me on LinkedIn!
-
-[GitHub](https://github.com/Aalamifar)
+- [LinkedIn](https://www.linkedin.com/in/aalamifar/)
+- [Personal Website](http://aalamifar.ir)
+- [GitHub](https://github.com/Aalamifar)
